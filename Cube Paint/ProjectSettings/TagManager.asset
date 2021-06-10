@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bumper
+  - Wall
+  - Floor
+  - Result
+  - Next
+  - PercentageTag
+  - stage2_notPaintTag
+  - notPaintTag
+  - Block
+  - BuckHomeButtontag
+  - InkGaugeTag
+  - ShopTag
+  - Hole
+  - subBallstopTag
+  - BreakCubeTag
+  - UpWall
+  - DownWall
+  - LeftWall
+  - RightWall
+  - ClearEffect
+  - NotPaintWallTag
+  - notdoublePaintTag
+  - MainPlayer
+  - ParticleCont
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MuveCubeLayer
+  - RollerLayer
+  - FloorLayer
+  - PlayerLayer
+  - MoveCubeAdjustmentLayer
+  - subplayerLayer
+  - RotatingWallLayer
+  - BalloonEffectLayer
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
